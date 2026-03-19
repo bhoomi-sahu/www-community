@@ -128,7 +128,7 @@ Np.
 
 `[X] Scan complete                       - OK`
 `[X] Total attempts                      - 26`
-`[X] Sucessfull attempts                 - 1`
+`[X] Successful attempts                 - 1`
 `oo00oo00oo00oo00oo00oo00oo00oo00oo00oo00oo00oo00`
 
 WebRoot.pl found one file "/private/b" on testsite.test, which contains

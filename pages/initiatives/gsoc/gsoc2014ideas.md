@@ -61,7 +61,7 @@ Ideas on the project:
 *Administrator's point of view*
 
 Create an infrastructure that spawns virtual environments for users while keeping the load reasonable on the server(s).
-Or configure apache,php,mysql in a way that allows for multiple instances of the programms to run in parallel completely seperated from the rest of the server.
+Or configure apache,php,mysql in a way that allows for multiple instances of the programs to run in parallel completely separated from the rest of the server.
 The student is expected to provide configuration scripts that do the above
 
 *Coder's Way*

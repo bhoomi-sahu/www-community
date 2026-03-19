@@ -1135,7 +1135,7 @@ O-Saft does not have a permanent storage for the computed results itself. The us
 
 #### Expected Results:
 * Writing a module or external program with a simple API for storing and fetching results.
-* Prefered storage format is sqlite, or flat ASCII file(s). See:
+* Preferred storage format is sqlite, or flat ASCII file(s). See:
  o-saft-pl some.tld +info --legacy=key
 : how a data record might look like (it's an example, not the final format).
 * The API for fetching results must have a method to get a complete data record.
@@ -1155,14 +1155,14 @@ O-Saft's GUI is very simple and not yet intuitive enough. For example the button
 
 #### Expected Results:
 * GUI with a better look and feel.
-* Language is Tcl/Tk 8.5. If additional installed packages are used, the functionality must be availabe without these packages too (safe fallback).
-* Complete integrated doumentation with "help" button and ballon-help on any object.
-* Nice to have: search function for commands and options. This could be implemented with TK's text:search capabilities, but a solution which also works on CLI would be prefered.
+* Language is Tcl/Tk 8.5. If additional installed packages are used, the functionality must be available without these packages too (safe fallback).
+* Complete integrated documentation with "help" button and balloon-help on any object.
+* Nice to have: search function for commands and options. This could be implemented with TK's text:search capabilities, but a solution which also works on CLI would be preferred.
 * The code should respect the policies described in the "HACKER's INFO" section, see [https://github.com/OWASP/O-Saft/blob/master/o-saft.tcl]
 * More ideas are welcome ...
 
 #### Knowledge Prerequisites:
-Experiance with programming in Tcl/Tk.
+Experience with programming in Tcl/Tk.
 
 #### Mentors:
 Achim Hoffmann - O-Saft Project Leader

@@ -8,7 +8,7 @@ permalink: /initiatives/gsoc/gsoc2013ideas
 
 ## OWASP Project Requests
 
-###OWASP WebGoatPHP
+### OWASP WebGoatPHP
 
 #### Description
 
@@ -109,9 +109,9 @@ Milestones:
 
         - Add crawlering for POST+GET (auto test 'whole' page forms)
         - Update XSS payloads (vectors.py / DOM.py / DCP.py / etc...)
-        - Advance Statistics results (show more detailed outputs)
-        - Advance Exporting methods (create 'whitehat' reports (xml/json))
-        - Advance “WebSockets” technology on XSSer 'fortune' option
+        - Advanced Statistics results (show more detailed outputs)
+        - Advanced Exporting methods (create 'whitehat' reports (xml/json))
+        - Advanced “WebSockets” technology on XSSer 'fortune' option
         - Update Interface (GTK+)
 
     - Phase 2: New features:
